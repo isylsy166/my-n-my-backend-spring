@@ -11,6 +11,8 @@ gradlew.bat
 gradle-wrapper.jar
 gradle-wrapper.properties
 
+application.properties
+
 ### STS ###
 .apt_generated
 .classpath
